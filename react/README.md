@@ -11,13 +11,17 @@ Global solution entitulada HealthSync.
 
 Para iniciar o projeto realize a instalação dos pacotes através do:
 
+### `npm install`
+
+Depois rode o projeto usando o:
+
 ### `npm start`
 
 Em outro terminal execute o JSON-Server para simular a API:
 
 ### `npm run start:server`
 
-Para realizar o login na aplicação, é necessário utilizar os seguintes dados
+Para realizar o login na aplicação, é necessário utilizar os seguintes dados:
 
 E-mail: `teste@fiap.com`
 Senha: `123456`
