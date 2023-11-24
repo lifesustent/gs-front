@@ -1,3 +1,29 @@
+# GS - ESR1
+
+Global solution entitulada HealthSync.
+
+## Alunos
+
+- Fabrizio El Ajouri Romano – **RM 550410**
+- Guilherme Jacob Soares da Costa – **RM 84581**
+
+## Antes de começar...
+
+Para iniciar o projeto realize a instalação dos pacotes através do:
+
+### `npm start`
+
+Em outro terminal execute o JSON-Server para simular a API:
+
+### `npm run start:server`
+
+Para realizar o login na aplicação, é necessário utilizar os seguintes dados
+
+E-mail: `teste@fiap.com`
+Senha: `123456`
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
