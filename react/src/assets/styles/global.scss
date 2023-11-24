@@ -1,0 +1,29 @@
+@use 'sass:color';
+@use 'reset';
+@use 'variables' as v;
+
+/* BUTTONS ------------------------------------------------ */
+button {
+  min-height: 46px;
+  margin-top: 1rem;
+  padding: .5rem 1rem;
+  background-color: v.$color-primary !important;
+  color: v.$color-white;
+  font-size: 1rem;
+  font-weight: 900 !important;
+  text-transform: uppercase;
+  transition: all .3s ease-in-out;
+  outline: none;
+  border: none !important;
+  border-radius: 0 !important;
+  cursor: pointer;
+
+  &:hover {
+    background-color: darken(#82a1ff, 10%) !important;
+
+    i {
+      transform: scale(1.2);
+      transition: all .3s ease-in-out;
+    }
+  }
+}
