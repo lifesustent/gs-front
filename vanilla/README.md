@@ -9,6 +9,11 @@ Global solution entitulada HealthSync.
 
 ## Antes de começar...
 
+
 Inicie o index.html através do Live Server, caso desejar, inicie o watch do SASS para atualização em tempo real das folhas de estilos através do comando:
+
+### `npm install`
+
+E depois:
 
 ### `npm run sass`
