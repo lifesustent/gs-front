@@ -13,7 +13,7 @@ Para iniciar o projeto realize a instalação dos pacotes através do:
 
 ### `npm install`
 
-Depois rode o projeto usando o:
+Depois rode o projeto usando o seguinte comando:
 
 ### `npm start`
 
