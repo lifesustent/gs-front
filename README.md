@@ -12,4 +12,5 @@ Global solution entitulada HealthSync.
 Este projeto está separado entre os arquivos html que estão na pasta "vanilla" e o projeto dinâmico na pasta "react". A documentação de ambas podem ser vistas através de suas respectivas pastas.
 
 [DOCUMENTAÇÃO VANILLA - HTML](./vanilla/README.md)
+
 [DOCUMENTAÇÃO REACT](./react/README.md)
